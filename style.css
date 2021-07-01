@@ -1,0 +1,10 @@
+.jumbotron{
+    background-image: url(https://picsum.photos/id/103/160/90);
+    background-size: cover;
+    height: 100%;
+}
+
+img{
+    height: 150px;
+    width: 100%;
+}
